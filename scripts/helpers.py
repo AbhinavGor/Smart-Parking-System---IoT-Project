@@ -1,8 +1,3 @@
-"""
-Helper functions.
-
-Source -> https://github.com/jrosebr1/imutils/blob/master/imutils/video/webcamvideostream.py
-"""
 import datetime
 import io
 
